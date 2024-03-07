@@ -4,7 +4,7 @@ for(i = 0; i < n; i++) {
 }
 
 int a;
-
+int b;
 while(true) {
     n++;
 }
