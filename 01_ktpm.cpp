@@ -4,7 +4,12 @@ for(i = 0; i < n; i++) {
 }
 
 int a;
+<<<<<<< HEAD
 int b;
+=======
+count >> "Kamen rider"
+
+>>>>>>> feature-new
 while(true) {
     n++;
 }
